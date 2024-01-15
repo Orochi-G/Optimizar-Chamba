@@ -1,0 +1,7 @@
+public class Optimizar-Chamba
+{
+  public static void main(String[] args)
+    {
+      System.out.println("No se que pedo con este repositorio, pero apenas voy comenzando")
+    }
+}
